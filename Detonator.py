@@ -1,4 +1,5 @@
 import automationhat
+import time
 detonatetrueorfalse = input('Detonate ? (y/n) : ')
 if detonatetrueorfalse == "y":
     print("3")
