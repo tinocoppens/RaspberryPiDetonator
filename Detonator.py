@@ -14,4 +14,3 @@ if detonatetrueorfalse == "n":
     print('Ok')
 else:
     print('Invalid')
-#with https://shop.pimoroni.com/products/automation-hat
